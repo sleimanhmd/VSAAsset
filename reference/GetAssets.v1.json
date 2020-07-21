@@ -11,7 +11,22 @@
       "url": "https://newcoredigital.stoplight.io/"
     }
   ],
-  "paths": {},
+  "paths": {
+    "/assets": {
+      "get": {
+        "summary": "all",
+        "tags": [
+          "getassets"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        },
+        "operationId": "get-assets"
+      }
+    }
+  },
   "components": {
     "schemas": {}
   }
