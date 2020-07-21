@@ -1,0 +1,18 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "GetAssets",
+    "version": "1.0",
+    "description": ""
+  },
+  "servers": [
+    {
+      "description": "",
+      "url": "https://newcoredigital.stoplight.io/"
+    }
+  ],
+  "paths": {},
+  "components": {
+    "schemas": {}
+  }
+}
